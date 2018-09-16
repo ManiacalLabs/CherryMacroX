@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Button_Switch_Keyboard)(type KiCad)(uri ${KIPRJMOD}/../Button_Switch_Keyboard.pretty)(options "")(descr "Keyboard Switches"))
+  (lib (name Teensy)(type Github)(uri https://github.com/XenGi/teensy.pretty)(options "")(descr "Teensy Footprints"))
+  (lib (name Teensy_Simple)(type KiCad)(uri ${KIPRJMOD}/../TeensySimple.pretty)(options "")(descr ""))
+  (lib (name Logos)(type KiCad)(uri ${KIPRJMOD}/../LOGOS.pretty)(options "")(descr "ML Logos"))
+)
